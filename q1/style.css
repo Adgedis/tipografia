@@ -1,0 +1,35 @@
+body {
+	background-color: #dfb3ac;
+}
+
+.contenedor {
+	position: absolute;
+	margin-right: 0 auto;
+	border: red 1px;
+	bottom: 0px;
+	width: 100%;
+}
+
+.quote {
+	font-family: 'Amatic SC', cursive;
+	font-size: 55px;
+	color: #fff;
+	margin-left: 18px;
+	margin-bottom: -20px;
+}
+
+.autor {
+	position: relative;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 240px;
+	color: #3b3e43;
+}
+
+.autor h1 {
+	margin-bottom: -27px;
+}
+.link {
+	color: #fff;
+	margin-top: 20px;
+	position: relative;
+}

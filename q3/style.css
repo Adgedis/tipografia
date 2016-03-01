@@ -1,0 +1,41 @@
+body {
+	background-color: #667081;
+}
+
+.contenedor {
+	position: absolute;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 19%;
+}
+
+.titulo {
+	position: relative;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 40px;
+	color: #efeaf5;
+	font-weight: 800;
+	text-align: center;
+}
+
+.autor {
+	color: #efeaf5;
+	font-family: 'Nunito', sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+.body {
+	color: #efeaf5;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: lighter;
+	margin-top:  15px;
+	line-height: 130%;
+	text-align: center;
+}
+
+.link {
+	color: #fff;
+	margin-top: 20px;
+	position: relative;
+}

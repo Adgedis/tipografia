@@ -1,0 +1,30 @@
+body {
+	background-color: #dfb3ac;
+}
+
+.contenedor {
+	position: relative;
+	top: 350px;
+	/*border:1px solid blue;*/
+	width: 980px;
+	margin: 0 auto;
+	z-index: 1;
+}
+.autor {
+color: #fff;
+font-family: 'Quattrocento', serif;
+position: relative;
+}
+.body {	
+color: #3b3e43;
+font-family: 'Quattrocento Sans', sans-serif;
+float: :left;
+position: relative;
+}
+
+
+.link {
+	color: #fff;
+	margin-top: 20px;
+	position: relative;
+}

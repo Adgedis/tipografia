@@ -1,0 +1,46 @@
+body {
+	background-color: #3b3e43;
+}
+
+.contenedor {
+	position: absolute;
+	width: 100%;
+	margin-left: 60px;
+	margin-top: 8%;
+}
+
+.quote {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 55px;
+	color: #fff;
+	margin-left: 18px;
+	margin-bottom: -20px;
+}
+
+.titulo {
+	position: relative;
+	font-family: 'Nunito', sans-serif;
+	font-size: 30px;
+	color: #fff;
+	font-weight: bold;
+}
+
+.autor {
+	color: #fff;
+	font-family: 'Nunito', sans-serif;
+	font-size: 30px;
+}
+.body {
+	color: #dfb3ac;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: lighter;
+	margin-top:  20px;
+	line-height: 150%;
+}
+
+.link {
+	color: #fff;
+	margin-top: 20px;
+	position: relative;
+}

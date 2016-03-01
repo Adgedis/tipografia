@@ -1,0 +1,37 @@
+body {
+	background-color: #3b3e43;
+position: relative;
+margin-left: 100px;
+margin-top: 15%;
+}
+
+.contenedor {
+	position: absolute;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.autor {
+	color: #dfb3ac;
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
+	text-align: left;
+	margin-bottom: 20px;
+	font-weight: 400;
+}
+.body {
+	color: #fff;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 130%;
+	text-align: left;
+	margin-bottom: 30px;
+}
+
+.link {
+	color: #fff;
+	margin-top: 20px;
+	position: relative;
+}

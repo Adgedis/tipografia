@@ -1,0 +1,42 @@
+body {
+	background-color: #9c7f7b;
+	position: relative;
+	margin: 0 auto;
+	margin-left: 20%;
+	margin-top: 5%;
+}
+
+.contenedor {
+	position: absolute;
+	width: 100%;
+	margin: 0 auto;
+}
+.autor {
+	color: #a08d8b;
+	font-family: 'Asap', sans-serif;
+	font-size: 300px;
+	text-align: center;
+	margin-top: 10%;
+	z-index: -1;
+	position: absolute;
+	margin-left: 8%;
+}
+.body {
+	position: absolute;
+	color: #fff;
+	font-family: 'Flamenco', cursive;
+	font-size: 60px;
+	font-weight: bold;
+	line-height: 110%;
+	text-align: center;
+	margin-top: 8%;
+	line-height: 150%;
+	z-index: 2;
+}
+
+
+.link {
+	color: #fff;
+	margin-top: 20px;
+	position: relative;
+}
